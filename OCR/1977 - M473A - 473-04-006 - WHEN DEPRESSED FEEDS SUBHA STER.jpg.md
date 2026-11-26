@@ -22,7 +22,7 @@ Wiki page: [M473A](../../../../PAGES/M473A.md)
 - **Words (OCR):** 140 in 88 lines: WBS · HASTER · shitch · Hhen depressed, · MASTER · shItch · Hhen Ocpressed, the · output igna · Is fed via SuM · ing · resistors · the
 - **Title block:** (140, 0)–(330, 318) mm: WBS · MASTER · shItch · Hhen Ocpressed, the · 42 · output gna · fed · sum|ng res |stors · the · externa master · suming bus H2 . · PRE · Auxiliary LEVEL contro| · Controls Jeve | · Auxiliary Output bu
 
-Every curve, box, word and wire group: [1977 - M473A - 473-04-006 - WHEN DEPRESSED FEEDS SUBHA STER (traced).json](../MECHANICAL/1977%20-%20M473A%20-%20473-04-006%20-%20WHEN%20DEPRESSED%20FEEDS%20SUBHA%20STER%20(traced).json) (the CAD file: `1977 - M473A - 473-04-006 - WHEN DEPRESSED FEEDS SUBHA STER (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M473A - 473-04-006 - WHEN DEPRESSED FEEDS SUBHA STER (traced).json](../MECHANICAL/1977%20-%20M473A%20-%20473-04-006%20-%20WHEN%20DEPRESSED%20FEEDS%20SUBHA%20STER%20%28traced%29.json) (the CAD file: `1977 - M473A - 473-04-006 - WHEN DEPRESSED FEEDS SUBHA STER (traced).dxf`).
 
 ## Full text
 

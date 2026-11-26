@@ -19,6 +19,19 @@ Wiki page: [M473A](../../../../PAGES/M473A.md)
 
 - **1977** (month): `JUNE 77` — …5-169 6 Component SiDE WBS WAAD-DeCk AYaTTane DAh (GEi DATI JUNE 77 Cko F_ ECAI F4t3a KODUL EOuLC COM 02 :""…
 
+## Vectors (traced)
+
+- **Sheet:** component layout, size B (assumed) 432 × 320 mm, 900 × 668 px traced (0.480 mm/px)
+- **Ink extent:** 10–432 mm across, 0–317 mm up
+- **Outlines:** line 1,325 rings, 7,483 straight (20,136 mm) / 1,819 curved (3,760 mm); text 262 rings, 1,399 straight (2,350 mm) / 390 curved (859 mm); tb 237 rings, 1,270 straight (2,097 mm) / 323 curved (699 mm)
+- **Circles and arcs:** 7 circles, 0 arcs; largest r 9.0 @ (205.0, 250.2), r 8.9 @ (87.9, 242.6), r 8.9 @ (228.5, 250.1), r 4.0 @ (269.3, 263.6)
+- **Closed boxes:** 87 (10 in the title block); named: DATI JUNE 77; ECAI
+- **Dots (junctions):** 2
+- **Words (OCR):** 39 in 34 lines: 02 · 020 Io · 60741 · 02E6 · 02E5 · 2E2 0 · RS3TORCZ MOUNTED · SiDE · 02E4 · IE3 · 0221 · R372+
+- **Title block:** (150, 22)–(357, 164) mm: WBS · 7-105 · CANada · 2E7 0 · Rec VOUNTEd · Hool(crd · WBS WAAD-DeCk
+
+Every curve, box, word and wire group: [M473A - P24 - Component Layout (traced).json](../SCHEMATICS/M473A%20-%20P24%20-%20Component%20Layout%20%28traced%29.json) (the CAD file: `M473A - P24 - Component Layout (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 2 words corrected)

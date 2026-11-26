@@ -25,7 +25,7 @@ Wiki page: [M473A](../../../../PAGES/M473A.md)
 - **Words (OCR):** 204 in 157 lines: R2i · PN3645 Pn3569 Pn3c45 244401 2n4401 PN3645 2N4401 2n4401 · sws R23 3k3 Ris_ 10/25 · 22k Rio 22 ~C5J8p · -R3 8r2 · WBS |+-036 WBS · R24 15k · RS · LOp RI2 · ci233ho cio RI3 C92 3p 6k2 ce? 3p · RI7 129 · C14 220p
 - **Title block:** (50, 1)–(397, 280) mm: sws R23 3k3 Ris_ 10/25 · 22k Rio 22 ~C5J8p · -R3 8r2 · WBS |+-036 WBS · R24 15k · RS · LOp RI2 · ci233ho cio RI3 C92 3p 6k2 ce? 3p · RI7 129 · C14 220p · K5 · R4 · C7 I5? · ~Ri3k3 · cistop R2o · RIS ·
 
-Every curve, box, word and wire group: [1977 - M473A - 473-06-002 - SOLDER SIDE COMPONENT SIDE (traced).json](../SCHEMATICS/1977%20-%20M473A%20-%20473-06-002%20-%20SOLDER%20SIDE%20COMPONENT%20SIDE%20(traced).json) (the CAD file: `1977 - M473A - 473-06-002 - SOLDER SIDE COMPONENT SIDE (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M473A - 473-06-002 - SOLDER SIDE COMPONENT SIDE (traced).json](../SCHEMATICS/1977%20-%20M473A%20-%20473-06-002%20-%20SOLDER%20SIDE%20COMPONENT%20SIDE%20%28traced%29.json) (the CAD file: `1977 - M473A - 473-06-002 - SOLDER SIDE COMPONENT SIDE (traced).dxf`).
 
 ## Full text
 

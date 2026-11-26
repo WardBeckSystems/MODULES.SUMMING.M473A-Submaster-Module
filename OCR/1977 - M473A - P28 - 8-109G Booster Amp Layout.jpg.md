@@ -11,6 +11,17 @@ Wiki page: [M473A](../../../../PAGES/M473A.md)
 - **Size:** 143,076 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** component layout, size B (assumed) 410 × 432 mm, 999 × 1051 px traced (0.411 mm/px)
+- **Ink extent:** 5–407 mm across, 5–432 mm up
+- **Outlines:** line 225 rings, 2,367 straight (10,313 mm) / 451 curved (999 mm); text 624 rings, 5,520 straight (11,176 mm) / 1,501 curved (3,411 mm)
+- **Circles and arcs:** 14 circles, 0 arcs; largest r 17.4 @ (34.0, 103.0), r 16.6 @ (133.1, 103.2), r 16.6 @ (132.2, 299.2), r 16.6 @ (32.7, 298.8)
+- **Closed boxes:** 1
+- **Words (OCR):** 109 in 103 lines: E7 · E2 · ~C133/1@ FC2: · 33/* · ~AJK · RI6 22k · SRi · R2_4zk · 22k · 6k2 · 6k2 · CR18
+
+Every curve, box, word and wire group: [1977 - M473A - P28 - 8-109G Booster Amp Layout (traced).json](../SCHEMATICS/1977%20-%20M473A%20-%20P28%20-%208-109G%20Booster%20Amp%20Layout%20%28traced%29.json) (the CAD file: `1977 - M473A - P28 - 8-109G Booster Amp Layout (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR)

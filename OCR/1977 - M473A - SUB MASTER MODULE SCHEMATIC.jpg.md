@@ -11,6 +11,20 @@ Wiki page: [M473A](../../../../PAGES/M473A.md)
 - **Size:** 489,920 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** schematic, size B (assumed) 432 × 283 mm, 2000 × 1310 px traced (0.216 mm/px)
+- **Ink extent:** 0–432 mm across, 0–283 mm up
+- **Outlines:** line 1,263 rings, 11,274 straight (21,121 mm) / 2,478 curved (3,215 mm); text 792 rings, 4,494 straight (4,084 mm) / 1,590 curved (2,024 mm); tb 6 rings, 66 straight (128 mm) / 3 curved (5.3 mm)
+- **Centre lines:** 14,408 paths (289 closed); straight 15,028 mm, curved 608 mm; horizontal 5,527 mm, vertical 3,712 mm, diagonal 5,789 mm
+- **Circles and arcs:** 22 circles, 99 arcs; largest r 3.9 @ (128.0, 142.2), r 3.9 @ (76.0, 85.7), r 3.9 @ (102.9, 78.8), r 3.9 @ (76.3, 38.8)
+- **Closed boxes:** 33; named: USED; WBS WARD-DECK BYOTEMO LTD; M47JA SUB MASTER MODULE SchEMATIC; 473 002; TOLS
+- **Words (OCR):** 167 in 144 lines: 3+3 · Rio · RI2 · 15 · Movitcr AND · 20446 2440 · Pn3645 · 03 · Ai · 330/6 · 3.3p · 75
+- **Title block:** (351, 13)–(412, 30) mm: WBS WARD-DECK BYOTEMO LTD · DRA GEB · M47JA
+- **Wiring (first pass):** 167 connected wire groups from 1,182 runs; labelled ends: 235 mm → 3w5, V2 04, 84, 8pL3; 223 mm → 15, Ai, 348, 2E7; 207 mm → Ai, 348, MstrR3o, 333; 203 mm → USED, WBS; 148 mm → 8w2, Sw3, Post
+
+Every curve, box, word and wire group: [1977 - M473A - SUB MASTER MODULE SCHEMATIC (traced).json](../SCHEMATICS/1977%20-%20M473A%20-%20SUB%20MASTER%20MODULE%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1977 - M473A - SUB MASTER MODULE SCHEMATIC (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 9 words corrected)

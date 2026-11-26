@@ -23,7 +23,7 @@ Wiki page: [M473A](../../../../PAGES/M473A.md)
 - **Title block:** (276, 4)–(432, 81) mm: UNTROLS MODIFIED · REDRAWN · ISSUE |DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN. GEB · M473A · ENG RKB · SUB-MASTER MODULE · CKD. Ru · FUNCTIONAL DIAGRAM · APP · SCALE · ISSUE · 473-01-002
 - **Wiring (first pass):** 128 connected wire groups from 292 runs; labelled ends: 352 mm → DIRECT, 8dBm, TRIm, 1096; 216 mm → CONTROL; 118 mm → 8dBm, 600 _, SOLo; 90 mm → SOLO; 55 mm → TRIm
 
-Every curve, box, word and wire group: [1977 - M473A - 473-01-002 - TROLS MODIFIED REDRAWN REVISION (traced).json](../SCHEMATICS/1977%20-%20M473A%20-%20473-01-002%20-%20TROLS%20MODIFIED%20REDRAWN%20REVISION%20(traced).json) (the CAD file: `1977 - M473A - 473-01-002 - TROLS MODIFIED REDRAWN REVISION (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M473A - 473-01-002 - TROLS MODIFIED REDRAWN REVISION (traced).json](../SCHEMATICS/1977%20-%20M473A%20-%20473-01-002%20-%20TROLS%20MODIFIED%20REDRAWN%20REVISION%20%28traced%29.json) (the CAD file: `1977 - M473A - 473-01-002 - TROLS MODIFIED REDRAWN REVISION (traced).dxf`).
 
 ## Full text
 

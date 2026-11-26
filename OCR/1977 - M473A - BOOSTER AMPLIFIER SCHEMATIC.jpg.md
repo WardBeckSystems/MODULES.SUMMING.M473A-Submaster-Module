@@ -11,6 +11,21 @@ Wiki page: [M473A](../../../../PAGES/M473A.md)
 - **Size:** 299,484 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** schematic, size B (assumed) 432 × 304 mm, 2000 × 1408 px traced (0.216 mm/px)
+- **Ink extent:** 16–432 mm across, 0–292 mm up
+- **Outlines:** line 365 rings, 4,367 straight (10,616 mm) / 831 curved (1,132 mm); text 438 rings, 2,609 straight (2,395 mm) / 899 curved (1,119 mm); tb 21 rings, 161 straight (197 mm) / 47 curved (56.5 mm)
+- **Centre lines:** 6,157 paths (109 closed); straight 7,522 mm, curved 366 mm; horizontal 2,983 mm, vertical 2,071 mm, diagonal 2,469 mm
+- **Circles and arcs:** 5 circles, 71 arcs; largest r 4.3 @ (192.9, 263.4), r 4.3 @ (223.9, 115.8), r 1.2 @ (234.4, 117.6), r 0.8 @ (176.8, 73.7)
+- **Closed boxes:** 8 (3 in the title block)
+- **Dots (junctions):** 2
+- **Words (OCR):** 95 in 94 lines: E3 · Ri3 · 390 · ol?s · Ris · 22 · 4k7 · Pn3L45 · 02 · 03 · F356 · 2n2102
+- **Title block:** (348, 10)–(432, 34) mm: RSu · REvISOH · WBS · WARD-BECK SYBTEMS · DRN_ · 8 - 109C · BOOSTER AMPLIFIER
+- **Wiring (first pass):** 55 connected wire groups from 430 runs; labelled ends: 200 mm → E3, Ri3, 390, 2n2102; 195 mm → R2s, 4k7; 163 mm → Pn3L45, Pn3563, Rib, 22k; 148 mm → R32, 478, R35, 333; 144 mm → R3o, R34, 5-0, Jp
+
+Every curve, box, word and wire group: [1977 - M473A - BOOSTER AMPLIFIER SCHEMATIC (traced).json](../SCHEMATICS/1977%20-%20M473A%20-%20BOOSTER%20AMPLIFIER%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1977 - M473A - BOOSTER AMPLIFIER SCHEMATIC (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 1 words corrected)

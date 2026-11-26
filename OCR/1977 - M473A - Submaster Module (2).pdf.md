@@ -28,7 +28,7 @@ Wiki page: [M473A](../../../../PAGES/M473A.md)
 - **Closed boxes:** 8; named: VVBS; VVBS; VVBS; VVBS; VVBS
 - **Words (OCR):** 17 in 15 lines: VVBS · [VVBS] · VVBS · VVBS · VVBS · VVBS · VVBS · VVBS · M~7J' · SIJIMASTEIl MClDUL£ · VVBS BS · ps
 
-Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p1 (traced).json](../MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20(2)%20p1%20(traced).json) (the CAD file: `1977 - M473A - Submaster Module (2) p1 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p1 (traced).json](../MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20%282%29%20p1%20%28traced%29.json) (the CAD file: `1977 - M473A - Submaster Module (2) p1 (traced).dxf`).
 
 ### Page 2
 
@@ -38,7 +38,7 @@ Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p1 (
 - **Words (OCR):** 21 in 14 lines: WARD-BECK SYSTEMS LTD. · (VVBS] ~55 AVf:NL.E. · G41 · ONTARIO · '1><4 · TEl.£X: · QG!'l. ,;,=ea · 438 · M473A · UBMAS TER MODULE · ps · BS
 - **Title block:** (98, 406)–(250, 431) mm: WARD-BECK SYSTEMS LTD. · (VVBS] ~55 AVf:NL.E. · G41 · ONTARIO
 
-Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p2 (traced).json](../MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20(2)%20p2%20(traced).json) (the CAD file: `1977 - M473A - Submaster Module (2) p2 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p2 (traced).json](../MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20%282%29%20p2%20%28traced%29.json) (the CAD file: `1977 - M473A - Submaster Module (2) p2 (traced).dxf`).
 
 ### Page 3
 
@@ -48,7 +48,7 @@ Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p2 (
 - **Dots (junctions):** 1
 - **Words (OCR):** 111 in 50 lines: WAR · ECK SYS TEMS LTO · TABL OF CO NT[ NTS · M473A SU8MASTE MODULE · SEC TIO · PAGE · Warranty · Techn ca Da · Circ uit De cr ip io · Part Lis · 3-1 to · Appe ndl lt
 
-Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p3 (traced).json](../MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20(2)%20p3%20(traced).json) (the CAD file: `1977 - M473A - Submaster Module (2) p3 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p3 (traced).json](../MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20%282%29%20p3%20%28traced%29.json) (the CAD file: `1977 - M473A - Submaster Module (2) p3 (traced).dxf`).
 
 ### Page 4
 
@@ -58,7 +58,7 @@ Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p3 (
 - **Words (OCR):** 359 in 92 lines: WAFID -BEC · YSTEMS LTD · WARR ANT · All Wa d-Beck Sys ems ltd pr oduct · ee war ra nt ed · g.lnst · de fective · and wor · nshi · for · peri od of on · ye ar fr
 - **Title block:** (26, 70)–(232, 354) mm: All Wa d-Beck Sys ems ltd pr oduct · ee war ra nt ed · de fective · and wor · nshi · for · ye ar fr · de of sh lp. ent. · Ward·B eck Sys te.s wi · epair or rep lace · It · without cha ge · sa · produc
 
-Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p4 (traced).json](../MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20(2)%20p4%20(traced).json) (the CAD file: `1977 - M473A - Submaster Module (2) p4 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p4 (traced).json](../MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20%282%29%20p4%20%28traced%29.json) (the CAD file: `1977 - M473A - Submaster Module (2) p4 (traced).dxf`).
 
 ### Page 5
 
@@ -69,7 +69,7 @@ Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p4 (
 - **Words (OCR):** 226 in 70 lines: WARD -BECK SYSTEMS LTD · TE CHNICAL DATA · M4 73A SUB MA ST ER MODULE · Gain; · dB · dB · (wit fader in 15 dB "in hand · position · Fr quency Resp onse: · 25 dB fr om 20 Hz · 20 kHz. · Noise
 - **Title block:** (3, 413)–(115, 432) mm: WARD -BECK SYSTEMS LTD
 
-Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p5 (traced).json](../MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20(2)%20p5%20(traced).json) (the CAD file: `1977 - M473A - Submaster Module (2) p5 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p5 (traced).json](../MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20%282%29%20p5%20%28traced%29.json) (the CAD file: `1977 - M473A - Submaster Module (2) p5 (traced).dxf`).
 
 ### Page 6
 
@@ -80,7 +80,7 @@ Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p5 (
 - **Dots (junctions):** 1
 - **Words (OCR):** 431 in 117 lines: BECK SYS TEM LTD · CI RCU · DESC RIPTIO · M473A SU BMAS TER MODULE · The M4 73A · de si gned to accept co mbin ed · II I)(ed feeds · olll · re vious · ass gned mi xing cha nnel npu ts. The ass ign ed mi x1ng · channel nputs are ampli fie · nd oute to he ppropriate
 
-Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p6 (traced).json](../MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20(2)%20p6%20(traced).json) (the CAD file: `1977 - M473A - Submaster Module (2) p6 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p6 (traced).json](../MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20%282%29%20p6%20%28traced%29.json) (the CAD file: `1977 - M473A - Submaster Module (2) p6 (traced).dxf`).
 
 ### Page 7
 
@@ -91,7 +91,7 @@ Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p6 (
 - **Words (OCR):** 369 in 82 lines: WA · BECK · SYSTEMS · CIRCU IT DESCR IPTION · M473A SUB MASTER MOD ULE · DIRECT Ou put and MON ITOR Out put · The DIRECT outp ut app ea · at pins S/S · Two · sol · out · puts re provid ed
 - **Title block:** (33, 305)–(112, 432) mm: BECK · SYSTEMS · DIRECT Ou put and MON ITOR Out put · The DIRECT outp ut app ea · puts re provid ed
 
-Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p7 (traced).json](../MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20(2)%20p7%20(traced).json) (the CAD file: `1977 - M473A - Submaster Module (2) p7 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p7 (traced).json](../MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20%282%29%20p7%20%28traced%29.json) (the CAD file: `1977 - M473A - Submaster Module (2) p7 (traced).dxf`).
 
 ### Page 8
 
@@ -100,7 +100,7 @@ Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p7 (
 - **Outlines:** line 326 rings, 3,530 straight (6,639 mm) / 929 curved (1,447 mm); text 675 rings, 4,981 straight (5,632 mm) / 1,390 curved (2,200 mm)
 - **Words (OCR):** 150 in 100 lines: WARD-BEC · SYST EM LTD · PARTS LIS · M47 3A SU8M ASTE MODUL · PART · OESCRl 1'1 ON · MFG PART NUM8ER · Cl · C.pac Ho 330 F/6 · KtllI~ · 390F33 7M00 6AS · 02
 
-Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p8 (traced).json](../MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20(2)%20p8%20(traced).json) (the CAD file: `1977 - M473A - Submaster Module (2) p8 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p8 (traced).json](../MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20%282%29%20p8%20%28traced%29.json) (the CAD file: `1977 - M473A - Submaster Module (2) p8 (traced).dxf`).
 
 ### Page 9
 
@@ -111,7 +111,7 @@ Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p8 (
 - **Dots (junctions):** 1
 - **Words (OCR):** 109 in 84 lines: WAFlO ·SECK SYSTEMS LTC · PARTS LI ST · M473A SUBMA STER MOD ULE · PART · OE eRI PT ON · MFG · KFG PART NUMBER · Q6 · Tr an sis · Nat na · PH36 45 · 07
 
-Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p9 (traced).json](../MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20(2)%20p9%20(traced).json) (the CAD file: `1977 - M473A - Submaster Module (2) p9 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p9 (traced).json](../MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20%282%29%20p9%20%28traced%29.json) (the CAD file: `1977 - M473A - Submaster Module (2) p9 (traced).dxf`).
 
 ### Page 10
 
@@ -121,7 +121,7 @@ Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p9 (
 - **Words (OCR):** 122 in 87 lines: WARO BECK SYSTEMS LTO · PARTS LIST · H4 1JA SUBHASTER HODUl · PART · DESCRIPTION · HFG · MFG PART NUMBER · R28 · Re si to · 22 0K · Phil ps · 15'
 - **Title block:** (39, 194)–(247, 432) mm: WARO BECK SYSTEMS LTO · PARTS LIST · H4 1JA SUBHASTER HODUl · DESCRIPTION · HFG · Re si to · 22 0K · Phil ps · 15' · Tri lll pot · Pi he · ss · Res is to · Phflip · HO · HO · ,SO · 2K4 · 2K4 · Pot nt 
 
-Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p10 (traced).json](../MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20(2)%20p10%20(traced).json) (the CAD file: `1977 - M473A - Submaster Module (2) p10 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p10 (traced).json](../MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20%282%29%20p10%20%28traced%29.json) (the CAD file: `1977 - M473A - Submaster Module (2) p10 (traced).dxf`).
 
 ### Page 11
 
@@ -131,7 +131,7 @@ Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p10 
 - **Words (OCR):** 114 in 59 lines: WAf=lO BECK SYSTEM LTO · PARTS LI ST · M4 73A SUSMAST ER MODULE · PA RT DESCRIP TIO · MFG · MFG PART NUMB ER · ees ts ter · 15K · Ph · ps · 15K · 470
 - **Title block:** (25, 115)–(249, 432) mm: WAf=lO BECK SYSTEM LTO · PARTS LI ST · M4 73A SUSMAST ER MODULE · PA RT DESCRIP TIO · MFG · ees ts ter · 15K · Ph · ps · 15K · 470 · '67 · exa · '68 · R70 · R7 · 47 · 5Wl · Sw1 ch · Schadow · 5W2 · WB
 
-Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p11 (traced).json](../MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20(2)%20p11%20(traced).json) (the CAD file: `1977 - M473A - Submaster Module (2) p11 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p11 (traced).json](../MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20%282%29%20p11%20%28traced%29.json) (the CAD file: `1977 - M473A - Submaster Module (2) p11 (traced).dxf`).
 
 ### Page 12
 
@@ -140,7 +140,7 @@ Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p11 
 - **Outlines:** line 19 rings, 611 straight (3,044 mm) / 87 curved (148 mm); text 76 rings, 542 straight (600 mm) / 110 curved (145 mm)
 - **Words (OCR):** 8 in 5 lines: 109 AIoiIPLl ER SERIES · ps · BS · tp · ht
 
-Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p12 (traced).json](../MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20(2)%20p12%20(traced).json) (the CAD file: `1977 - M473A - Submaster Module (2) p12 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p12 (traced).json](../MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20%282%29%20p12%20%28traced%29.json) (the CAD file: `1977 - M473A - Submaster Module (2) p12 (traced).dxf`).
 
 ### Page 13
 
@@ -152,7 +152,7 @@ Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p12 
 - **Dots (junctions):** 4
 - **Words (OCR):** 251 in 137 lines: DESCR IPTION · 09 · PllF ER · SERIES · 8-109 · ri · IlrT'l) llf iers arll · ti li zed · In tern al omp oo · ith · va lnu · WBS
 
-Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p13 (traced).json](../MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20(2)%20p13%20(traced).json) (the CAD file: `1977 - M473A - Submaster Module (2) p13 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p13 (traced).json](../MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20%282%29%20p13%20%28traced%29.json) (the CAD file: `1977 - M473A - Submaster Module (2) p13 (traced).dxf`).
 
 ### Page 14
 
@@ -163,7 +163,7 @@ Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p13 
 - **Dots (junctions):** 1
 - **Words (OCR):** 312 in 178 lines: DESCR TI ON · 109 AMPL IF IER SER iE · Oul · L/lve · 1-30 Bm m""imu · Requ remc · 21 · oll · 18 mA cvtesceo Curren · mA III +30 lJm OU UI · mbie nt Te mp · eg
 
-Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p14 (traced).json](../MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20(2)%20p14%20(traced).json) (the CAD file: `1977 - M473A - Submaster Module (2) p14 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p14 (traced).json](../MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20%282%29%20p14%20%28traced%29.json) (the CAD file: `1977 - M473A - Submaster Module (2) p14 (traced).dxf`).
 
 ### Page 15
 
@@ -172,7 +172,7 @@ Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p14 
 - **Outlines:** line 54 rings, 1,293 straight (3,542 mm) / 197 curved (296 mm); text 222 rings, 1,816 straight (2,046 mm) / 478 curved (771 mm)
 - **Words (OCR):** 48 in 18 lines: DES CR IPTION · 8-109 AMPLIF IER SE RIES · nve · ng am ifier wit · xt nal · stra pped to E6. · Th output · al mode · of he · 8-109 seri es is · \ve ly · bal anc ed nd
 
-Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p15 (traced).json](../MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20(2)%20p15%20(traced).json) (the CAD file: `1977 - M473A - Submaster Module (2) p15 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p15 (traced).json](../MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20%282%29%20p15%20%28traced%29.json) (the CAD file: `1977 - M473A - Submaster Module (2) p15 (traced).dxf`).
 
 ### Page 16
 
@@ -182,7 +182,7 @@ Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p15 
 - **Closed boxes:** 3
 - **Words (OCR):** 119 in 77 lines: PAR TS · IS · -109 AMP LI FI ER SERIES · -109 · PART · DEseR IPT ION · MFG PART NUMBER · Ce.p e.cilo · aa uF/10 · K",m"l · 900 36 M0 AS · ca
 
-Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p16 (traced).json](../MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20(2)%20p16%20(traced).json) (the CAD file: `1977 - M473A - Submaster Module (2) p16 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p16 (traced).json](../MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20%282%29%20p16%20%28traced%29.json) (the CAD file: `1977 - M473A - Submaster Module (2) p16 (traced).dxf`).
 
 ### Page 17
 
@@ -191,7 +191,7 @@ Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p16 
 - **Outlines:** line 218 rings, 2,432 straight (5,483 mm) / 583 curved (759 mm); text 480 rings, 4,180 straight (4,507 mm) / 1,249 curved (1,527 mm)
 - **Words (OCR):** 77 in 53 lines: PARTS LI ST · 109 AMPLIFIER SER ES · -109 · rr · OESCR IP TION · FG · MFGPAAT NUM8ER · Re i,OIor · 4W · Pi"l tl iJ · OS• · 390
 
-Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p17 (traced).json](../MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20(2)%20p17%20(traced).json) (the CAD file: `1977 - M473A - Submaster Module (2) p17 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p17 (traced).json](../MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20%282%29%20p17%20%28traced%29.json) (the CAD file: `1977 - M473A - Submaster Module (2) p17 (traced).dxf`).
 
 ### Page 18
 
@@ -202,7 +202,7 @@ Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p17 
 - **Dots (junctions):** 1
 - **Words (OCR):** 99 in 62 lines: PAR · iS · 8_109 AM PLI IER SERIES · 109'" · pa rt · per · 10 · cp as nOIe-<:! elow · PAR' · OESC RI TIO · FG · MFG PART NUMBER
 
-Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p18 (traced).json](../MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20(2)%20p18%20(traced).json) (the CAD file: `1977 - M473A - Submaster Module (2) p18 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p18 (traced).json](../MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20%282%29%20p18%20%28traced%29.json) (the CAD file: `1977 - M473A - Submaster Module (2) p18 (traced).dxf`).
 
 ### Page 19
 
@@ -214,7 +214,7 @@ Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p18 
 - **Words (OCR):** 106 in 64 lines: PAR TS LI ST · 109 AMP IF ER SER IES · 10 90 · Al · ar- · <:IS · per · 109 · cept as no ted · ow · PAR · DESCRIPTION
 - **Wiring (first pass):** 16 connected wire groups from 53 runs; labelled ends: 71 mm → ESCRIP, TIO, PA, ce; 59 mm → AMP, IES; 53 mm → MFG, 2222-638-09476; 49 mm → MFG, 2222-638-09476, NUMBER; 48 mm → _09478, NUMBE, 222
 
-Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p19 (traced).json](../MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20(2)%20p19%20(traced).json) (the CAD file: `1977 - M473A - Submaster Module (2) p19 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p19 (traced).json](../MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20%282%29%20p19%20%28traced%29.json) (the CAD file: `1977 - M473A - Submaster Module (2) p19 (traced).dxf`).
 
 ### Page 20
 
@@ -224,7 +224,7 @@ Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p19 
 - **Dots (junctions):** 1
 - **Words (OCR):** 64 in 32 lines: DARTS · IST · 8-109 AM PL · ER SERIES · 8_I09G · rt · er 8-10 · 88 no · elo · PAR · DESCI PTI QN · MF
 
-Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p20 (traced).json](../MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20(2)%20p20%20(traced).json) (the CAD file: `1977 - M473A - Submaster Module (2) p20 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p20 (traced).json](../MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20%282%29%20p20%20%28traced%29.json) (the CAD file: `1977 - M473A - Submaster Module (2) p20 (traced).dxf`).
 
 ### Page 21
 
@@ -237,7 +237,7 @@ Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p20 
 - **Words (OCR):** 240 in 100 lines: was · IlUm · MlSTEJt ASS IGIiMEN! sw itch $'14 · wt.n dep ,..ued, · he · MIo STU ASS IGH MT switch · SWS When · de9,.. ued · the · output lg · exterM · er
 - **Title block:** (212, 11)–(322, 56) mm: BS · '0/771 · tfQaIlfrNN · f1. · hs~ DATE · VVE3S] WARD-BECK SYSTEMS · tp · DflH · olIb« · M473A · ENG. · ht SU6MASTER MODUlE · eKD. P.IL · FRONT pANEL
 
-Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p21 (traced).json](../MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20(2)%20p21%20(traced).json) (the CAD file: `1977 - M473A - Submaster Module (2) p21 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p21 (traced).json](../MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20%282%29%20p21%20%28traced%29.json) (the CAD file: `1977 - M473A - Submaster Module (2) p21 (traced).dxf`).
 
 ### Page 22
 
@@ -249,7 +249,7 @@ Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p21 
 - **Words (OCR):** 105 in 73 lines: MO · OR · OUTPUT · DIR ECT OUTPUT · Ml · dBm 600 · MASTER · Ml · SU · TRJ · ON · FA DE
 - **Title block:** (277, 4)–(432, 73) mm: 10/ 77 · REDRA · ISSUE DATE · REVIS ION ca · APP · (VVE3S] WARD-BECK SYSTEMS · ps · BS · DRN GEB · M4 3A · ENG. RKB · SUB- · STE · ODU LE · CKD · FUNCTI ONAL · tp DIA GRAM · APP · ht · CALE · ISSUE · 
 
-Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p22 (traced).json](../MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20(2)%20p22%20(traced).json) (the CAD file: `1977 - M473A - Submaster Module (2) p22 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p22 (traced).json](../MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20%282%29%20p22%20%28traced%29.json) (the CAD file: `1977 - M473A - Submaster Module (2) p22 (traced).dxf`).
 
 ### Page 23
 
@@ -261,7 +261,7 @@ Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p22 
 - **Words (OCR):** 230 in 184 lines: R+3 75 · 17 · -VVv--3> · R4 75 · MO ITO · ANa · R4S · ER I'JG · wT · R4(.. 7S · lv · 1v
 - **Title block:** (294, 1)–(404, 32) mm: rEEIJ WARD-B ECK SY8TEMS LTD · 'SS MOO. CKD. · USED ON · MA · tp · 1f50 · t>iI · ht · 3$17 · FINISH · OIUt · DATE JUNE 77 · EB · f-M. · eKD."";?; · SCALE · 473 -0'-00' · if,l · 'Iii · TOLS.
 
-Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p23 (traced).json](../MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20(2)%20p23%20(traced).json) (the CAD file: `1977 - M473A - Submaster Module (2) p23 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p23 (traced).json](../MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20%282%29%20p23%20%28traced%29.json) (the CAD file: `1977 - M473A - Submaster Module (2) p23 (traced).dxf`).
 
 ### Page 24
 
@@ -273,7 +273,7 @@ Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p23 
 - **Words (OCR):** 134 in 94 lines: 1J400..! · IN4¢O.lc. · ~R31~ · 1I · R"B · R32: J.k · E!;.4- · -R34. · 53 TO R'-2 · ouNT · R35 10 · ON '?>OLD
 - **Title block:** (60, 3)–(396, 190) mm: I~t · 5WS · WBS 11-005' · 02EI · 2E · 'R,4-8 2·2 · [VVBS] · 2·Z · P,4 · CANADA · P.4 · R44 · 7-105 · R43 · 2S · WG. · IEl · -Rll · 2E70 · RGG · rv,OU t-lT ED OJ.,,) · BS · CO MPO t-J NT · 1D · OL · \D
 
-Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p24 (traced).json](../MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20(2)%20p24%20(traced).json) (the CAD file: `1977 - M473A - Submaster Module (2) p24 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p24 (traced).json](../MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20%282%29%20p24%20%28traced%29.json) (the CAD file: `1977 - M473A - Submaster Module (2) p24 (traced).dxf`).
 
 ### Page 25
 
@@ -285,7 +285,7 @@ Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p24 
 - **Dots (junctions):** 1
 - **Words (OCR):** 112 in 64 lines: III · INPUT · NPUT · III · SHI ELD · SHI ELD · AUX · OU · AUX · OU · AUX · OU
 
-Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p25 (traced).json](../MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20(2)%20p25%20(traced).json) (the CAD file: `1977 - M473A - Submaster Module (2) p25 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p25 (traced).json](../MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20%282%29%20p25%20%28traced%29.json) (the CAD file: `1977 - M473A - Submaster Module (2) p25 (traced).dxf`).
 
 ### Page 26
 
@@ -295,7 +295,7 @@ Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p25 
 - **Circles and arcs:** 12 circles, 0 arcs; largest r 16.7 @ (43.3, 300.2), r 15.8 @ (139.3, 110.5), r 15.8 @ (43.6, 111.4), r 15.7 @ (138.7, 300.3)
 - **Words (OCR):** 41 in 36 lines: ~3/1O · -cr · "'ill. · -R5 · f8k. · ns -Rl..i.ZQ · -R8 · 4'1., · -CIO- · -cz, · _CIl~"P' · -RI4-.gg
 
-Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p26 (traced).json](../MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20(2)%20p26%20(traced).json) (the CAD file: `1977 - M473A - Submaster Module (2) p26 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p26 (traced).json](../MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20%282%29%20p26%20%28traced%29.json) (the CAD file: `1977 - M473A - Submaster Module (2) p26 (traced).dxf`).
 
 ### Page 27
 
@@ -308,7 +308,7 @@ Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p26 
 - **Words (OCR):** 145 in 122 lines: E3 · 'lJ · I3 · 1·S · .39 · 10 · I7 · K7 · 22 · t;;i' · n.lt:> · El
 - **Title block:** (352, 1)–(432, 34) mm: ISS UE OAf( · RE'lJtSION · (VVE3S] WARD- 8ECK SYSTEMS · tp · ht · OftN. El .'78 · ENG.MRW · CKD. · l-4 · TPU · AMPLI FIER · SCHEMATIC · sc.... GI '09 02 · ISSUE
 
-Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p27 (traced).json](../MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20(2)%20p27%20(traced).json) (the CAD file: `1977 - M473A - Submaster Module (2) p27 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p27 (traced).json](../MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20%282%29%20p27%20%28traced%29.json) (the CAD file: `1977 - M473A - Submaster Module (2) p27 (traced).dxf`).
 
 ### Page 28
 
@@ -320,7 +320,7 @@ Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p27 
 - **Dots (junctions):** 1
 - **Words (OCR):** 45 in 36 lines: E1 · CI · -RI~K · R5 · -R3 c.K2 · 18K · /N4 14 · CR · >l3<b45 · Cr~op · 2N 21 · RIr 41<7
 
-Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p28 (traced).json](../MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20(2)%20p28%20(traced).json) (the CAD file: `1977 - M473A - Submaster Module (2) p28 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p28 (traced).json](../MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20%282%29%20p28%20%28traced%29.json) (the CAD file: `1977 - M473A - Submaster Module (2) p28 (traced).dxf`).
 
 ### Page 29
 
@@ -332,7 +332,7 @@ Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p28 
 - **Words (OCR):** 142 in 114 lines: E3 · B'I · 0.13 · 1-S · 39 · RI · 1<"7 · 22 · 17 · PN.3" · EI · CI
 - **Title block:** (349, 0)–(432, 32) mm: !IS SUE DATi · REV ISION · PP. · tp · (\NBS) WARD-BECK SYSTEMS · ht · DAN. GE · -109(; · EHG.M RW 4/78 · BO OS7 ER AM PLIF IER · CKO. · '1!'"""ii:.. · SCH EM ATI · APP. · ISSUE · SCALE · 109- 02- 008
 
-Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p29 (traced).json](../MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20(2)%20p29%20(traced).json) (the CAD file: `1977 - M473A - Submaster Module (2) p29 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M473A - Submaster Module (2) p29 (traced).json](../MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20%282%29%20p29%20%28traced%29.json) (the CAD file: `1977 - M473A - Submaster Module (2) p29 (traced).dxf`).
 
 ## Full text
 
