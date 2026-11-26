@@ -1,0 +1,58 @@
+{
+ "drawing": "Modules/SUMMING/M473A/MANUALS/1977 - M473A - Submaster Module.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/6aa393fe21e67fb4-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1502, 2000],
+  "mm": [324.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [169.9, 0.0, 286.8, 429.6],
+ "outlines": {
+  "line": {"rings": 21, "straight": {"n": 1456, "mm": 5527.9}, "curved": {"n": 94, "mm": 189.9}},
+  "text": {"rings": 47, "straight": {"n": 993, "mm": 3922.3}, "curved": {"n": 87, "mm": 170.8}},
+  "tb": {"rings": 3, "straight": {"n": 107, "mm": 379.0}, "curved": {"n": 4, "mm": 11.9}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 12,
+  "lines": [
+   {"mm": [183.1, 400.3, 275.9, 423.5], "text": "WBS"},
+   {"mm": [180.3, 360.3, 275.5, 384.3], "text": "WBS"},
+   {"mm": [182.2, 320.4, 275.5, 344.1], "text": "WBS"},
+   {"mm": [183.1, 281.5, 275.9, 304.8], "text": "WBS"},
+   {"mm": [182.4, 241.6, 276.1, 265.6], "text": "WBS"},
+   {"mm": [181.8, 201.7, 276.6, 226.1], "text": "WBS"},
+   {"mm": [182.7, 162.1, 276.6, 186.4], "text": "WBS"},
+   {"mm": [180.5, 123.3, 276.6, 146.5], "text": "WBS"},
+   {"mm": [214.8, 99.7, 238.6, 108.4], "text": "M473A"},
+   {"mm": [192.6, 90.2, 258.4, 98.4], "text": "SUBMASTER MODULE"},
+   {"mm": [183.9, 44.3, 277.2, 68.0], "text": "WBS"},
+   {"mm": [182.9, 5.2, 276.4, 28.7], "text": "WBS"}
+  ]
+ },
+ "title_block": {
+  "mm": [173.7, 0.0, 283.8, 431.8],
+  "from": "title-block words (training set)",
+  "text": ["WBS", "WBS", "WBS", "WBS", "WBS", "WBS", "WBS", "WBS", "M473A", "SUBMASTER MODULE", "WBS", "WBS"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 324 × 432 mm, 1502 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 170–287 mm across, 0–430 mm up",
+  "- **Outlines:** line 21 rings, 1,456 straight (5,528 mm) / 94 curved (190 mm); text 47 rings, 993 straight (3,922 mm) / 87 curved (171 mm); tb 3 rings, 107 straight (379 mm) / 4 curved (11.9 mm)",
+  "- **Words (OCR):** 12 in 12 lines: WBS · WBS · WBS · WBS · WBS · WBS · WBS · WBS · M473A · SUBMASTER MODULE · WBS · WBS",
+  "- **Title block:** (174, 0)–(284, 432) mm: WBS · WBS · WBS · WBS · WBS · WBS · WBS · WBS · M473A · SUBMASTER MODULE · WBS · WBS"
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "drawing": "Modules/SUMMING/M473A/MANUALS/1977 - M473A - Submaster Module.pdf",
+ "page": 2,
+ "version": 1,
+ "trace": "_traces/6aa393fe21e67fb4-p2.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1451, 2000],
+  "mm": [313.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "2", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [6.9, 5.0, 303.1, 422.9],
+ "outlines": {
+  "line": {"rings": 4, "straight": {"n": 561, "mm": 2545.0}, "curved": {"n": 70, "mm": 111.0}},
+  "text": {"rings": 166, "straight": {"n": 2022, "mm": 2705.6}, "curved": {"n": 449, "mm": 711.0}},
+  "tb": {"rings": 2, "straight": {"n": 109, "mm": 312.2}, "curved": {"n": 2, "mm": 3.0}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 12,
+  "lines": [
+   {"mm": [103.8, 414.3, 274.6, 423.9], "text": "WAAD-BECK SYSTEMS LTD."},
+   {"mm": [33.0, 405.5, 271.2, 420.1], "text": "WBS 041 PAOGAESS AVENUE; SCAABOROUGH; ONTARIO M12x4"},
+   {"mm": [103.4, 402.4, 157.8, 407.7], "text": "TeLEX: 065-25399"},
+   {"mm": [193.7, 401.6, 271.4, 408.1], "text": "TELEPHONE: 4161438-6560"},
+   {"mm": [119.2, 259.3, 188.3, 272.2], "text": "M473A"},
+   {"mm": [106.2, 245.7, 203.4, 255.0], "text": "SUBMASTER MODULE"},
+   {"mm": [61.1, 3.5, 240.7, 10.7], "text": "DESIGN AND MANUFACTURE Of PAOFESSIONAL AUDIO FQUIPMENT"}
+  ]
+ },
+ "title_block": {
+  "mm": [26.7, 396.7, 250.7, 431.8],
+  "from": "title-block words (training set)",
+  "text": ["WAAD-BECK SYSTEMS LTD.", "WBS 041 PAOGAESS AVENUE; SCAABOROUGH; ONTARIO M12x4", "TeLEX: 065-25399", "TELEPHONE: 4161438-6560"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 313 × 432 mm, 1451 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 7–303 mm across, 5–423 mm up",
+  "- **Outlines:** line 4 rings, 561 straight (2,545 mm) / 70 curved (111 mm); text 166 rings, 2,022 straight (2,706 mm) / 449 curved (711 mm); tb 2 rings, 109 straight (312 mm) / 2 curved (3.0 mm)",
+  "- **Words (OCR):** 12 in 7 lines: WAAD-BECK SYSTEMS LTD. · WBS 041 PAOGAESS AVENUE; SCAABOROUGH; ONTARIO M12x4 · TeLEX: 065-25399 · TELEPHONE: 4161438-6560 · M473A · SUBMASTER MODULE · DESIGN AND MANUFACTURE Of PAOFESSIONAL AUDIO FQUIPMENT",
+  "- **Title block:** (27, 397)–(251, 432) mm: WAAD-BECK SYSTEMS LTD. · WBS 041 PAOGAESS AVENUE; SCAABOROUGH; ONTARIO M12x4 · TeLEX: 065-25399 · TELEPHONE: 4161438-6560"
+ ]
+}

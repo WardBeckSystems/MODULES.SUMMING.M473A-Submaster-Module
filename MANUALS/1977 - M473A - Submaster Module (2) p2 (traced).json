@@ -1,0 +1,60 @@
+{
+ "drawing": "Modules/SUMMING/M473A/MANUALS/1977 - M473A - Submaster Module (2).pdf",
+ "page": 2,
+ "version": 1,
+ "trace": "_traces/e1b0872f47977311-p2.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1451, 2000],
+  "mm": [313.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "2", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [6.9, 5.0, 303.1, 422.8],
+ "outlines": {
+  "line": {"rings": 48, "straight": {"n": 1172, "mm": 3558.0}, "curved": {"n": 205, "mm": 333.2}},
+  "text": {"rings": 140, "straight": {"n": 1445, "mm": 1909.2}, "curved": {"n": 325, "mm": 521.0}},
+  "tb": {"rings": 8, "straight": {"n": 123, "mm": 142.8}, "curved": {"n": 28, "mm": 43.1}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 21,
+  "lines": [
+   {"mm": [104.3, 415.0, 273.3, 422.2], "text": "WARD-BECK SYSTEMS LTD."},
+   {"mm": [26.6, 403.9, 171.9, 420.3], "text": "(VVBS] ~55 AVf:NL.E."},
+   {"mm": [103.8, 408.1, 113.6, 412.1], "text": "G41"},
+   {"mm": [219.8, 408.1, 243.5, 412.1], "text": "ONTARIO"},
+   {"mm": [259.7, 408.1, 269.9, 412.1], "text": "'1><4"},
+   {"mm": [104.3, 402.2, 122.8, 406.3], "text": "TEl.£X:"},
+   {"mm": [125.0, 402.2, 157.2, 406.5], "text": "QG!'l. ,;,=ea"},
+   {"mm": [242.7, 402.0, 253.3, 406.3], "text": "438"},
+   {"mm": [119.2, 258.9, 188.7, 269.4], "text": "M473A"},
+   {"mm": [113.1, 246.1, 202.5, 253.3], "text": "UBMAS TER MODULE"},
+   {"mm": [267.3, 53.8, 286.9, 62.2], "text": "ps"},
+   {"mm": [256.7, 43.0, 277.2, 53.8], "text": "BS"},
+   {"mm": [235.5, 22.0, 252.8, 28.7], "text": "tp"},
+   {"mm": [229.1, 15.3, 248.7, 22.0], "text": "ht"}
+  ]
+ },
+ "title_block": {
+  "mm": [98.0, 406.4, 249.6, 430.7],
+  "from": "title-block words (training set)",
+  "text": ["WARD-BECK SYSTEMS LTD.", "(VVBS] ~55 AVf:NL.E.", "G41", "ONTARIO"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 313 × 432 mm, 1451 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 7–303 mm across, 5–423 mm up",
+  "- **Outlines:** line 48 rings, 1,172 straight (3,558 mm) / 205 curved (333 mm); text 140 rings, 1,445 straight (1,909 mm) / 325 curved (521 mm); tb 8 rings, 123 straight (143 mm) / 28 curved (43.1 mm)",
+  "- **Words (OCR):** 21 in 14 lines: WARD-BECK SYSTEMS LTD. · (VVBS] ~55 AVf:NL.E. · G41 · ONTARIO · '1><4 · TEl.£X: · QG!'l. ,;,=ea · 438 · M473A · UBMAS TER MODULE · ps · BS",
+  "- **Title block:** (98, 406)–(250, 431) mm: WARD-BECK SYSTEMS LTD. · (VVBS] ~55 AVf:NL.E. · G41 · ONTARIO"
+ ]
+}
