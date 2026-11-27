@@ -1,17 +1,17 @@
-# M473A · Summing
+# M473A Submaster Module · Summing
 
 Ward-Beck Systems M473A, 1977|10. Wiki page: [M473A on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M473A.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 18 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 4 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 6 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 200 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 0 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 0 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 7 |
-| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 38 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 39 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 6 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 11 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 201 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 2 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 13 |
+| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 36 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
 
@@ -185,19 +185,19 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKQ0h2Rm1MQ1h0cm8/view?resourcekey=0-PLTMFunN8TWkC7p0BEVzCQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKQ0h2Rm1MQ1h0cm8&resourcekey=0-PLTMFunN8TWkC7p0BEVzCQ" width="240" alt="1977 - M473A - 473-01-002 - TROLS MODIFIED REDRAWN REVISION.jpg"></a><br><sub>1977|10 · 473-01-002 - TROLS MODIFIED REDRAWN REVISION · <a href="SCHEMATICS/1977%20-%20M473A%20-%20473-01-002%20-%20TROLS%20MODIFIED%20REDRAWN%20REVISION%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKTUpDUEtwc1VIek0/view?resourcekey=0-F9Xxgqo9RKSDaxZIUGPLYw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKTUpDUEtwc1VIek0&resourcekey=0-F9Xxgqo9RKSDaxZIUGPLYw" width="240" alt="1977 - M473A - 473-06-002 - SOLDER SIDE COMPONENT SIDE.jpg"></a><br><sub>1977|10 · 473-06-002 - SOLDER SIDE COMPONENT SIDE · <a href="SCHEMATICS/1977%20-%20M473A%20-%20473-06-002%20-%20SOLDER%20SIDE%20COMPONENT%20SIDE%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKZm9uSzNYWUo3UGc/view?resourcekey=0-xyWe7DjvPwI4WJ2nGfHO7g" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKZm9uSzNYWUo3UGc&resourcekey=0-xyWe7DjvPwI4WJ2nGfHO7g" width="240" alt="1977 - M473A - 8-109-02-002 - OUTPUT AMPLIFIER SCHEMATIC.jpg"></a><br><sub>1977|10 · 8-109-02-002 - OUTPUT AMPLIFIER SCHEMATIC</sub></td></tr>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKX0lNd2xmUTJDeWc/view?resourcekey=0-RLeVJ_zPSxFzC1c-B6lDYw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKX0lNd2xmUTJDeWc&resourcekey=0-RLeVJ_zPSxFzC1c-B6lDYw" width="240" alt="1977 - M473A - BOOSTER AMPLIFIER SCHEMATIC.jpg"></a><br><sub>1977|10 · BOOSTER AMPLIFIER SCHEMATIC</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKekUzcTBPckZ2RW8/view?resourcekey=0-w5ZAe9bnin86wQYO-jmoNQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKekUzcTBPckZ2RW8&resourcekey=0-w5ZAe9bnin86wQYO-jmoNQ" width="240" alt="1977 - M473A - P27 - 8-109A Output Amp Layout.jpg"></a><br><sub>1977|10 · P27 - 8-109A Output Amp Layout</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKck9pWWJ4VmVlMG8/view?resourcekey=0-qPcwqgpg4wrUegrevffe0A" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKck9pWWJ4VmVlMG8&resourcekey=0-qPcwqgpg4wrUegrevffe0A" width="240" alt="1977 - M473A - P28 - 8-109G Booster Amp Layout.jpg"></a><br><sub>1977|10 · P28 - 8-109G Booster Amp Layout</sub></td></tr>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKV2h4bnZpVUwwdWM/view?resourcekey=0-kaYSywnviTLYR8bPBcNnsA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKV2h4bnZpVUwwdWM&resourcekey=0-kaYSywnviTLYR8bPBcNnsA" width="240" alt="1977 - M473A - SUB MASTER MODULE SCHEMATIC.jpg"></a><br><sub>1977|10 · SUB MASTER MODULE SCHEMATIC</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKQ0h2Rm1MQ1h0cm8/view?resourcekey=0-PLTMFunN8TWkC7p0BEVzCQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKQ0h2Rm1MQ1h0cm8&resourcekey=0-PLTMFunN8TWkC7p0BEVzCQ" width="240" alt="1977 - M473A - 473-01-002 - TROLS MODIFIED REDRAWN REVISION.jpg"></a><br><sub>1977|10 · 473-01-002 - TROLS MODIFIED REDRAWN REVISION · <a href="SCHEMATICS/1977%20-%20M473A%20-%20473-01-002%20-%20TROLS%20MODIFIED%20REDRAWN%20REVISION%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKTUpDUEtwc1VIek0/view?resourcekey=0-F9Xxgqo9RKSDaxZIUGPLYw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKTUpDUEtwc1VIek0&resourcekey=0-F9Xxgqo9RKSDaxZIUGPLYw" width="240" alt="1977 - M473A - 473-06-002 - SOLDER SIDE COMPONENT SIDE.jpg"></a><br><sub>1977|10 · 473-06-002 - SOLDER SIDE COMPONENT SIDE · <a href="SCHEMATICS/1977%20-%20M473A%20-%20473-06-002%20-%20SOLDER%20SIDE%20COMPONENT%20SIDE%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKZm9uSzNYWUo3UGc/view?resourcekey=0-xyWe7DjvPwI4WJ2nGfHO7g" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKZm9uSzNYWUo3UGc&resourcekey=0-xyWe7DjvPwI4WJ2nGfHO7g" width="240" alt="1977 - M473A - 8-109-02-002 - OUTPUT AMPLIFIER SCHEMATIC.jpg"></a><br><sub>1977|10 · 8-109-02-002 - OUTPUT AMPLIFIER SCHEMATIC · <a href="SCHEMATICS/1977%20-%20M473A%20-%208-109-02-002%20-%20OUTPUT%20AMPLIFIER%20SCHEMATIC%20(EXTRACTED).svg">vectors</a></sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKX0lNd2xmUTJDeWc/view?resourcekey=0-RLeVJ_zPSxFzC1c-B6lDYw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKX0lNd2xmUTJDeWc&resourcekey=0-RLeVJ_zPSxFzC1c-B6lDYw" width="240" alt="1977 - M473A - BOOSTER AMPLIFIER SCHEMATIC.jpg"></a><br><sub>1977|10 · BOOSTER AMPLIFIER SCHEMATIC · <a href="SCHEMATICS/1977%20-%20M473A%20-%20BOOSTER%20AMPLIFIER%20SCHEMATIC%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKekUzcTBPckZ2RW8/view?resourcekey=0-w5ZAe9bnin86wQYO-jmoNQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKekUzcTBPckZ2RW8&resourcekey=0-w5ZAe9bnin86wQYO-jmoNQ" width="240" alt="1977 - M473A - P27 - 8-109A Output Amp Layout.jpg"></a><br><sub>1977|10 · P27 - 8-109A Output Amp Layout · <a href="SCHEMATICS/1977%20-%20M473A%20-%20P27%20-%208-109A%20Output%20Amp%20Layout%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKck9pWWJ4VmVlMG8/view?resourcekey=0-qPcwqgpg4wrUegrevffe0A" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKck9pWWJ4VmVlMG8&resourcekey=0-qPcwqgpg4wrUegrevffe0A" width="240" alt="1977 - M473A - P28 - 8-109G Booster Amp Layout.jpg"></a><br><sub>1977|10 · P28 - 8-109G Booster Amp Layout · <a href="SCHEMATICS/1977%20-%20M473A%20-%20P28%20-%208-109G%20Booster%20Amp%20Layout%20(EXTRACTED).svg">vectors</a></sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKV2h4bnZpVUwwdWM/view?resourcekey=0-kaYSywnviTLYR8bPBcNnsA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKV2h4bnZpVUwwdWM&resourcekey=0-kaYSywnviTLYR8bPBcNnsA" width="240" alt="1977 - M473A - SUB MASTER MODULE SCHEMATIC.jpg"></a><br><sub>1977|10 · SUB MASTER MODULE SCHEMATIC · <a href="SCHEMATICS/1977%20-%20M473A%20-%20SUB%20MASTER%20MODULE%20SCHEMATIC%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `M473A - P22 - Functional Diagram.jpg`, `M473A - P24 - Component Layout.jpg`, `M473A - P28 - 8-109G Booster Amp Schematic.jpg`
+Not on Google Drive yet: `M473A - P22 - Functional Diagram.jpg`
 
 ## Pinouts
 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKVkF2UFc1cjR3c2c/view?resourcekey=0-yTyzR69SMZAXM-4R4oJmNA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKVkF2UFc1cjR3c2c&resourcekey=0-yTyzR69SMZAXM-4R4oJmNA" width="240" alt="1977 - M473A - P25 - Pin Out.jpg"></a><br><sub>1977|10 · P25 - Pin Out</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKVkF2UFc1cjR3c2c/view?resourcekey=0-yTyzR69SMZAXM-4R4oJmNA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKVkF2UFc1cjR3c2c&resourcekey=0-yTyzR69SMZAXM-4R4oJmNA" width="240" alt="1977 - M473A - P25 - Pin Out.jpg"></a><br><sub>1977|10 · P25 - Pin Out · <a href="PINOUTS/1977%20-%20M473A%20-%20P25%20-%20Pin%20Out%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
 Not on Google Drive yet: `M473A - RTO-144 Connections.pdf`
@@ -283,12 +283,22 @@ Shared privately on Google Drive (opens after sign-in): [19xx - M473A - DOC - wh
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
 
 - [1977 - M473A - 473-01-002 - TROLS MODIFIED REDRAWN REVISION.kicad_sch](KICAD/1977%20-%20M473A%20-%20473-01-002%20-%20TROLS%20MODIFIED%20REDRAWN%20REVISION.kicad_sch)
+- [1977 - M473A - 8-109-02-002 - OUTPUT AMPLIFIER SCHEMATIC.kicad_sch](KICAD/1977%20-%20M473A%20-%208-109-02-002%20-%20OUTPUT%20AMPLIFIER%20SCHEMATIC.kicad_sch)
+- [1977 - M473A - BOOSTER AMPLIFIER SCHEMATIC.kicad_sch](KICAD/1977%20-%20M473A%20-%20BOOSTER%20AMPLIFIER%20SCHEMATIC.kicad_sch)
+- [1977 - M473A - SUB MASTER MODULE SCHEMATIC.kicad_sch](KICAD/1977%20-%20M473A%20-%20SUB%20MASTER%20MODULE%20SCHEMATIC.kicad_sch)
 - [1977 - M473A - Submaster Module (2) p19.kicad_sch](KICAD/1977%20-%20M473A%20-%20Submaster%20Module%20(2)%20p19.kicad_sch)
 - [1977 - M473A - Submaster Module p22.kicad_sch](KICAD/1977%20-%20M473A%20-%20Submaster%20Module%20p22.kicad_sch)
 - [1977 - M473A - Submaster Module p23.kicad_sch](KICAD/1977%20-%20M473A%20-%20Submaster%20Module%20p23.kicad_sch)
 - [1977 - M473A - Submaster Module p27.kicad_sch](KICAD/1977%20-%20M473A%20-%20Submaster%20Module%20p27.kicad_sch)
 - [1977 - M473A - Submaster Module p29.kicad_sch](KICAD/1977%20-%20M473A%20-%20Submaster%20Module%20p29.kicad_sch)
+- [M473A - P22 - Functional Diagram.kicad_sch](KICAD/M473A%20-%20P22%20-%20Functional%20Diagram.kicad_sch)
+- [M473A - P28 - 8-109G Booster Amp Schematic.kicad_sch](KICAD/M473A%20-%20P28%20-%208-109G%20Booster%20Amp%20Schematic.kicad_sch)
 - [M473A.kicad_sym](KICAD/M473A.kicad_sym)
+- [index.html](KICAD/index.html)
+
+## Software
+
+- [index.html](SOFTWARE/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
