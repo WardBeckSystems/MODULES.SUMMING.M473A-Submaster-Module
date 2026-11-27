@@ -1,0 +1,189 @@
+{
+ "module": "M473A",
+ "title": "M4734_SUBMASTER MODULE",
+ "source": {
+  "file": "MANUALS/1977 - M473A - P05 - 1-1.jpg",
+  "page": 1
+ },
+ "ocr_quality": 0.87,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Gain",
+   "key": "gain",
+   "text": "dB ±0.5 dB (with fader in 15 dB \"in-hand\" position).",
+   "quantities": [
+    {
+     "value": 0.5,
+     "unit": "dB",
+     "tolerance": true
+    },
+    {
+     "value": 15,
+     "unit": "dB"
+    }
+   ]
+  },
+  {
+   "name": "Frequency responses",
+   "key": "frequency_responses",
+   "text": "40.25 dB from 20 Hz to 20 klz. 80 dB below +8 dBm nominal output Teve (20 Hz to 20 kHz)",
+   "quantities": [
+    {
+     "value": 40.25,
+     "unit": "dB"
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 80,
+     "unit": "dB"
+    },
+    {
+     "value": 8,
+     "unit": "dBm"
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Harmonic distortion",
+   "key": "harmonic_distortion",
+   "text": "Less than 0.258 from 30 Hz to 20 kHz +28 dBm output or Tess. (Typically Tess than 0.05% across mOs to f bandwidth.",
+   "quantities": [
+    {
+     "value": 30,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    },
+    {
+     "value": 28,
+     "unit": "dBm"
+    },
+    {
+     "value": 0.05,
+     "unit": "%"
+    }
+   ]
+  },
+  {
+   "name": "Source impedance",
+   "key": "source_impedance",
+   "text": "",
+   "items": [
+    {
+     "name": "Summing",
+     "text": "30,000 ohms balanced",
+     "quantities": [
+      {
+       "value": 30000,
+       "unit": "ohms"
+      }
+     ],
+     "key": "summing"
+    }
+   ]
+  },
+  {
+   "name": "Input impedance",
+   "key": "input_impedance",
+   "text": "Output Impedances:"
+  },
+  {
+   "name": "Summing",
+   "key": "summing",
+   "text": "Less than ohms At 8-1094 output and DIRECT output, pins 15/5 Less than 100 ohms At MONITOR outputs pins 16/T &nd 17/U: 150 ohms",
+   "quantities": [
+    {
+     "value": 100,
+     "unit": "ohms"
+    },
+    {
+     "value": 150,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Load impedance",
+   "key": "load_impedance",
+   "text": "600 ohms balanced (at insertion point and DIRECT output)",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Output level",
+   "key": "output_level",
+   "text": "dBm nomina ] at insert point +8 dBm nomina 1 at DIRECT output 15/5 +30 dBm max mum t DIRECT output 15/5",
+   "quantities": [
+    {
+     "value": 8,
+     "unit": "dBm"
+    },
+    {
+     "value": 30,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Phasing",
+   "key": "phasing",
+   "text": "Input and output termina ]s designated by numbers are in phase."
+  },
+  {
+   "name": "Power requirements",
+   "key": "power_requirement",
+   "text": "+25 vo ]ts dc 60 ma nomina] 200 MAma ximum;",
+   "quantities": [
+    {
+     "value": 60,
+     "unit": "ma"
+    }
+   ]
+  },
+  {
+   "name": "Ambient temperature",
+   "key": "ambient_temperature",
+   "text": "to 60 degrees Celsius 6 \" wide 7\" high deep (41 X 178 X 165 Mm5\" MTIIT MM",
+   "quantities": [
+    {
+     "value": 60,
+     "unit": "degrees Celsius"
+    },
+    {
+     "value": 6,
+     "unit": "\""
+    },
+    {
+     "value": 7,
+     "unit": "\""
+    },
+    {
+     "value": 165,
+     "unit": "Mm"
+    },
+    {
+     "value": 5,
+     "unit": "\""
+    }
+   ]
+  }
+ ]
+}
