@@ -204,26 +204,61 @@ Not on Google Drive yet: `M473A - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
-22 contacts (P2). Every contact, with where it was read: [`RTO.json`](RTO.json).
+Read from 1 pinout picture (each its own `.pinout.json` beside it); the RTO-144 sheet agrees on 15 of 17 contacts; 2 to check (`conflicts`). Every contact, with where it was read: [`RTO.json`](RTO.json). How a picture becomes this table: [the pinout decision tree](https://github.com/WardBeckSystems/WBSps.ca/blob/main/2026/Engineering/PINOUTS.md).
 
-| Pin | Signal | Kind | Pair | Confidence |
+**To check:**
+
+- disagree P1-J: kept ATT OUT (out); RTO-144 sheet says Insert Return - (in)
+- disagree P1-R: kept SUB ON OUT (control_out); RTO-144 sheet says Insert Return + (in)
+
+| Pin | Signal | Kind | Port | Confidence |
 |---|---|---|---|---|
-| 1 | SUMMING INPUT | in | A1 + | high |
-| 8 | INSERT SEND | out | B1 - | high |
-| 14 | INSERT SEND | out | B1 + | high |
-| 15 | DIRECT OUT | out | A4 + | high |
-| 17 | METER OUT | out | A3 + | high |
+| 1 | INPUT | in | INPUT | high |
+| 2 | INPUT SHIELD | shield | INPUT shield | high |
+| 3 | AUX 4 OUT | out | AUX 4 OUT | high |
+| 4 | AUX 2 OUT | out | AUX 2 OUT | high |
+| 5 | AUX 3 OUT | out | AUX 3 OUT | high |
+| 6 | AUX 1 OUT | out | AUX 1 OUT | high |
+| 7 | SOLO OUT | out | SOLO OUT | high |
+| 8 | ATT OUT | out | ATT OUT | high |
+| 9 | GND | ground |  | high |
+| 10 | M1 OUT | out | M1 OUT | high |
+| 11 | M2 OUT | out | M2 OUT | high |
+| 12 | GND | ground |  | high |
+| 13 | AUX PRE-FADE IN | in | AUX PRE-FADE IN | high |
+| 14 | SUB ON OUT | control_out | SUB ON OUT | high |
+| 15 | DIRECT OUT | out | DIRECT OUT | high |
+| 16 | MONITOR OUT | out | MONITOR OUT | high |
+| 17 | MONITOR OUT | out | MONITOR OUT | high |
+| 18 | CONTROL COM | ground |  | high |
 | 19 | -25 V | power |  | high |
-| 20 | COMMON | ground |  | high |
+| 20 | ±COMMON | ground |  | high |
 | 21 | +25 V | power |  | high |
 | 22 | CHASSIS | ground |  | high |
-| A | SUMMING INPUT | in | A1 - | high |
-| J | INSERT RETURN | in | B2 - | high |
-| R | INSERT RETURN | in | B2 + | high |
-| S | DIRECT OUT | out | A4 - | high |
-| T | METER OUT | out | A3 - | high |
+| A | INPUT | in | INPUT | high |
+| B | INPUT SHIELD | shield | INPUT shield | high |
+| C | AUX 4 OUT | out | AUX 4 OUT | high |
+| D | AUX 2 OUT | out | AUX 2 OUT | high |
+| E | AUX 3 OUT | out | AUX 3 OUT | high |
+| F | AUX 1 OUT | out | AUX 1 OUT | high |
+| H | SOLO OUT | out | SOLO OUT | high |
+| J | ATT OUT | out | ATT OUT | high |
+| K | GND | ground |  | high |
+| L | M1 OUT | out | M1 OUT | high |
+| M | M2 OUT | out | M2 OUT | high |
+| N | GND | ground |  | high |
+| P | AUX PRE-FADE IN | in | AUX PRE-FADE IN | high |
+| R | SUB ON OUT | control_out | SUB ON OUT | high |
+| S | DIRECT OUT | out | DIRECT OUT | high |
+| T | MONITOR OUT | out | MONITOR OUT | high |
+| U | MONITOR OUT | out | MONITOR OUT | high |
+| V | SOLO CONTROL | control_in | SOLO CONTROL | high |
+| W | M1 CTL | control_in | M1 CTL | high |
+| X | M2 CTL | control_in | M2 CTL | high |
+| Y | +24 V | power |  | high |
+| Z | SUB CTL | control_in | SUB CTL | high |
 
-**Straps:** 24V Jumper: JMP.Y.21 · CH ON GND : JMP.20.18 · Insert +: JMP.22.21 · Insert -: JMP.Z.Y
+**Straps:** JMP.Y.21: P2-Y P2-21 · JMP.20.18: P2-20 P2-18 · JMP.22.21: P2-22 P2-21 · JMP.Z.Y: P2-Z P2-Y
 
 ## Manuals and documents
 

@@ -3,213 +3,999 @@
  "connector": "RTO-144",
  "type": "M473A Submaster Module",
  "series": null,
- "contacts": "22 contacts (P2)",
+ "connectors": [
+  {
+   "name": "P1",
+   "kind": "edge",
+   "contacts": 44,
+   "rows": "A-Z opposite 1-22",
+   "view": "rear",
+   "part": null
+  }
+ ],
  "verified": null,
- "derived": false,
- "variant_of": null,
+ "built_from": {
+  "pictures": [
+   "M473A/PINOUTS/1977 - M473A - P25 - Pin Out.pinout.json"
+  ],
+  "sheet": "Engineering/RTO-144/M473A/M473A.rto144.json",
+  "sheet_agrees": "15 of 17"
+ },
  "pins": [
   {
+   "connector": "P1",
    "pin": "1",
-   "signal": "SUMMING INPUT",
+   "ref": "1",
+   "also": null,
+   "same_row": null,
+   "signal": "INPUT",
    "kind": "in",
-   "pair": "A1",
-   "polarity": "+",
+   "port": "INPUT",
+   "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M473A/M473A.rto144.json",
-   "page": 1
+   "read_from": [
+    "M473A/PINOUTS/1977 - M473A - P25 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Summing Input +",
+    "kind": "in",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
+   "pin": "2",
+   "ref": "2",
+   "also": null,
+   "same_row": null,
+   "signal": "INPUT SHIELD",
+   "kind": "shield",
+   "port": "INPUT",
+   "polarity": "shield",
+   "confidence": "high",
+   "read_from": [
+    "M473A/PINOUTS/1977 - M473A - P25 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "3",
+   "ref": "3",
+   "also": null,
+   "same_row": null,
+   "signal": "AUX 4 OUT",
+   "kind": "out",
+   "port": "AUX 4 OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M473A/PINOUTS/1977 - M473A - P25 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "4",
+   "ref": "4",
+   "also": null,
+   "same_row": null,
+   "signal": "AUX 2 OUT",
+   "kind": "out",
+   "port": "AUX 2 OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M473A/PINOUTS/1977 - M473A - P25 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "5",
+   "ref": "5",
+   "also": null,
+   "same_row": null,
+   "signal": "AUX 3 OUT",
+   "kind": "out",
+   "port": "AUX 3 OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M473A/PINOUTS/1977 - M473A - P25 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "6",
+   "ref": "6",
+   "also": null,
+   "same_row": null,
+   "signal": "AUX 1 OUT",
+   "kind": "out",
+   "port": "AUX 1 OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M473A/PINOUTS/1977 - M473A - P25 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "7",
+   "ref": "7",
+   "also": null,
+   "same_row": null,
+   "signal": "SOLO OUT",
+   "kind": "out",
+   "port": "SOLO OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M473A/PINOUTS/1977 - M473A - P25 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
    "pin": "8",
-   "signal": "INSERT SEND",
+   "ref": "8",
+   "also": null,
+   "same_row": null,
+   "signal": "ATT OUT",
    "kind": "out",
-   "pair": "B1",
-   "polarity": "-",
+   "port": "ATT OUT",
+   "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M473A/M473A.rto144.json",
-   "page": 1
+   "read_from": [
+    "M473A/PINOUTS/1977 - M473A - P25 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Insert Send -",
+    "kind": "out",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
+   "pin": "9",
+   "ref": "9",
+   "also": null,
+   "same_row": null,
+   "signal": "GND",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M473A/PINOUTS/1977 - M473A - P25 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "10",
+   "ref": "10",
+   "also": null,
+   "same_row": null,
+   "signal": "M1 OUT",
+   "kind": "out",
+   "port": "M1 OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M473A/PINOUTS/1977 - M473A - P25 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "11",
+   "ref": "11",
+   "also": null,
+   "same_row": null,
+   "signal": "M2 OUT",
+   "kind": "out",
+   "port": "M2 OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M473A/PINOUTS/1977 - M473A - P25 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "12",
+   "ref": "12",
+   "also": null,
+   "same_row": null,
+   "signal": "GND",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M473A/PINOUTS/1977 - M473A - P25 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "13",
+   "ref": "13",
+   "also": null,
+   "same_row": null,
+   "signal": "AUX PRE-FADE IN",
+   "kind": "in",
+   "port": "AUX PRE-FADE IN",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M473A/PINOUTS/1977 - M473A - P25 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
    "pin": "14",
-   "signal": "INSERT SEND",
-   "kind": "out",
-   "pair": "B1",
-   "polarity": "+",
+   "ref": "14",
+   "also": null,
+   "same_row": null,
+   "signal": "SUB ON OUT",
+   "kind": "control_out",
+   "port": "SUB ON OUT",
+   "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M473A/M473A.rto144.json",
-   "page": 1
+   "read_from": [
+    "M473A/PINOUTS/1977 - M473A - P25 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Insert Send +",
+    "kind": "out",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "15",
+   "ref": "15",
+   "also": null,
+   "same_row": null,
    "signal": "DIRECT OUT",
    "kind": "out",
-   "pair": "A4",
-   "polarity": "+",
+   "port": "DIRECT OUT",
+   "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M473A/M473A.rto144.json",
-   "page": 1
+   "read_from": [
+    "M473A/PINOUTS/1977 - M473A - P25 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Direct Out +",
+    "kind": "out",
+    "agrees": true
+   }
   },
   {
-   "pin": "17",
-   "signal": "METER OUT",
+   "connector": "P1",
+   "pin": "16",
+   "ref": "16",
+   "also": null,
+   "same_row": null,
+   "signal": "MONITOR OUT",
    "kind": "out",
-   "pair": "A3",
-   "polarity": "+",
+   "port": "MONITOR OUT",
+   "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M473A/M473A.rto144.json",
-   "page": 1
+   "read_from": [
+    "M473A/PINOUTS/1977 - M473A - P25 - Pin Out.pinout.json"
+   ],
+   "sheet": null
   },
   {
+   "connector": "P1",
+   "pin": "17",
+   "ref": "17",
+   "also": null,
+   "same_row": null,
+   "signal": "MONITOR OUT",
+   "kind": "out",
+   "port": "MONITOR OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M473A/PINOUTS/1977 - M473A - P25 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Meter Out +",
+    "kind": "out",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P1",
+   "pin": "18",
+   "ref": "18",
+   "also": null,
+   "same_row": null,
+   "signal": "CONTROL COM",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M473A/PINOUTS/1977 - M473A - P25 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "JMP.20.18",
+    "kind": "strap",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P1",
    "pin": "19",
+   "ref": "19",
+   "also": null,
+   "same_row": null,
    "signal": "-25 V",
    "kind": "power",
-   "pair": null,
+   "port": null,
    "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M473A/M473A.rto144.json",
-   "page": 1
+   "read_from": [
+    "M473A/PINOUTS/1977 - M473A - P25 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "VEE-AUDIO",
+    "kind": "power",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "20",
-   "signal": "COMMON",
+   "ref": "20",
+   "also": null,
+   "same_row": null,
+   "signal": "±COMMON",
    "kind": "ground",
-   "pair": null,
+   "port": null,
    "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M473A/M473A.rto144.json",
-   "page": 1
+   "read_from": [
+    "M473A/PINOUTS/1977 - M473A - P25 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "GND",
+    "kind": "ground",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "21",
+   "ref": "21",
+   "also": null,
+   "same_row": null,
    "signal": "+25 V",
    "kind": "power",
-   "pair": null,
+   "port": null,
    "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M473A/M473A.rto144.json",
-   "page": 1
+   "read_from": [
+    "M473A/PINOUTS/1977 - M473A - P25 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "VCC-AUDIO",
+    "kind": "power",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "22",
+   "ref": "22",
+   "also": null,
+   "same_row": null,
    "signal": "CHASSIS",
    "kind": "ground",
-   "pair": null,
+   "port": null,
    "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M473A/M473A.rto144.json",
-   "page": 1
+   "read_from": [
+    "M473A/PINOUTS/1977 - M473A - P25 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "JMP.22.21",
+    "kind": "strap",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "A",
-   "signal": "SUMMING INPUT",
+   "ref": "A",
+   "also": null,
+   "same_row": null,
+   "signal": "INPUT",
    "kind": "in",
-   "pair": "A1",
-   "polarity": "-",
+   "port": "INPUT",
+   "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M473A/M473A.rto144.json",
-   "page": 1
+   "read_from": [
+    "M473A/PINOUTS/1977 - M473A - P25 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Summing Input -",
+    "kind": "in",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
+   "pin": "B",
+   "ref": "B",
+   "also": null,
+   "same_row": null,
+   "signal": "INPUT SHIELD",
+   "kind": "shield",
+   "port": "INPUT",
+   "polarity": "shield",
+   "confidence": "high",
+   "read_from": [
+    "M473A/PINOUTS/1977 - M473A - P25 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "C",
+   "ref": "C",
+   "also": null,
+   "same_row": null,
+   "signal": "AUX 4 OUT",
+   "kind": "out",
+   "port": "AUX 4 OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M473A/PINOUTS/1977 - M473A - P25 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "D",
+   "ref": "D",
+   "also": null,
+   "same_row": null,
+   "signal": "AUX 2 OUT",
+   "kind": "out",
+   "port": "AUX 2 OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M473A/PINOUTS/1977 - M473A - P25 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "E",
+   "ref": "E",
+   "also": null,
+   "same_row": null,
+   "signal": "AUX 3 OUT",
+   "kind": "out",
+   "port": "AUX 3 OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M473A/PINOUTS/1977 - M473A - P25 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "F",
+   "ref": "F",
+   "also": null,
+   "same_row": null,
+   "signal": "AUX 1 OUT",
+   "kind": "out",
+   "port": "AUX 1 OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M473A/PINOUTS/1977 - M473A - P25 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "H",
+   "ref": "H",
+   "also": null,
+   "same_row": null,
+   "signal": "SOLO OUT",
+   "kind": "out",
+   "port": "SOLO OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M473A/PINOUTS/1977 - M473A - P25 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
    "pin": "J",
-   "signal": "INSERT RETURN",
-   "kind": "in",
-   "pair": "B2",
-   "polarity": "-",
+   "ref": "J",
+   "also": null,
+   "same_row": null,
+   "signal": "ATT OUT",
+   "kind": "out",
+   "port": "ATT OUT",
+   "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M473A/M473A.rto144.json",
-   "page": 1
+   "read_from": [
+    "M473A/PINOUTS/1977 - M473A - P25 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Insert Return -",
+    "kind": "in",
+    "agrees": false
+   }
   },
   {
+   "connector": "P1",
+   "pin": "K",
+   "ref": "K",
+   "also": null,
+   "same_row": null,
+   "signal": "GND",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M473A/PINOUTS/1977 - M473A - P25 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "L",
+   "ref": "L",
+   "also": null,
+   "same_row": null,
+   "signal": "M1 OUT",
+   "kind": "out",
+   "port": "M1 OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M473A/PINOUTS/1977 - M473A - P25 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "M",
+   "ref": "M",
+   "also": null,
+   "same_row": null,
+   "signal": "M2 OUT",
+   "kind": "out",
+   "port": "M2 OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M473A/PINOUTS/1977 - M473A - P25 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "N",
+   "ref": "N",
+   "also": null,
+   "same_row": null,
+   "signal": "GND",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M473A/PINOUTS/1977 - M473A - P25 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "P",
+   "ref": "P",
+   "also": null,
+   "same_row": null,
+   "signal": "AUX PRE-FADE IN",
+   "kind": "in",
+   "port": "AUX PRE-FADE IN",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M473A/PINOUTS/1977 - M473A - P25 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
    "pin": "R",
-   "signal": "INSERT RETURN",
-   "kind": "in",
-   "pair": "B2",
-   "polarity": "+",
+   "ref": "R",
+   "also": null,
+   "same_row": null,
+   "signal": "SUB ON OUT",
+   "kind": "control_out",
+   "port": "SUB ON OUT",
+   "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M473A/M473A.rto144.json",
-   "page": 1
+   "read_from": [
+    "M473A/PINOUTS/1977 - M473A - P25 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Insert Return +",
+    "kind": "in",
+    "agrees": false
+   }
   },
   {
+   "connector": "P1",
    "pin": "S",
+   "ref": "S",
+   "also": null,
+   "same_row": null,
    "signal": "DIRECT OUT",
    "kind": "out",
-   "pair": "A4",
-   "polarity": "-",
+   "port": "DIRECT OUT",
+   "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M473A/M473A.rto144.json",
-   "page": 1
+   "read_from": [
+    "M473A/PINOUTS/1977 - M473A - P25 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Direct Out -",
+    "kind": "out",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "T",
-   "signal": "METER OUT",
+   "ref": "T",
+   "also": null,
+   "same_row": null,
+   "signal": "MONITOR OUT",
    "kind": "out",
-   "pair": "A3",
-   "polarity": "-",
+   "port": "MONITOR OUT",
+   "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M473A/M473A.rto144.json",
-   "page": 1
+   "read_from": [
+    "M473A/PINOUTS/1977 - M473A - P25 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Meter Out -",
+    "kind": "out",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P1",
+   "pin": "U",
+   "ref": "U",
+   "also": null,
+   "same_row": null,
+   "signal": "MONITOR OUT",
+   "kind": "out",
+   "port": "MONITOR OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M473A/PINOUTS/1977 - M473A - P25 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "V",
+   "ref": "V",
+   "also": null,
+   "same_row": null,
+   "signal": "SOLO CONTROL",
+   "kind": "control_in",
+   "port": "SOLO CONTROL",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M473A/PINOUTS/1977 - M473A - P25 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "W",
+   "ref": "W",
+   "also": null,
+   "same_row": null,
+   "signal": "M1 CTL",
+   "kind": "control_in",
+   "port": "M1 CTL",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M473A/PINOUTS/1977 - M473A - P25 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "X",
+   "ref": "X",
+   "also": null,
+   "same_row": null,
+   "signal": "M2 CTL",
+   "kind": "control_in",
+   "port": "M2 CTL",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M473A/PINOUTS/1977 - M473A - P25 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "Y",
+   "ref": "Y",
+   "also": null,
+   "same_row": null,
+   "signal": "+24 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M473A/PINOUTS/1977 - M473A - P25 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "JMP.Y.21",
+    "kind": "strap",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P1",
+   "pin": "Z",
+   "ref": "Z",
+   "also": null,
+   "same_row": null,
+   "signal": "SUB CTL",
+   "kind": "control_in",
+   "port": "SUB CTL",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M473A/PINOUTS/1977 - M473A - P25 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "JMP.Z.Y",
+    "kind": "strap",
+    "agrees": true
+   }
   }
  ],
+ "ports": [
+  {
+   "name": "INPUT",
+   "dir": "in",
+   "pins": {
+    "a": "P1-A",
+    "b": "P1-1",
+    "shield": "P1-B",
+    "c": "P1-2"
+   }
+  },
+  {
+   "name": "AUX 4 OUT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-C",
+    "b": "P1-3"
+   }
+  },
+  {
+   "name": "AUX 2 OUT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-D",
+    "b": "P1-4"
+   }
+  },
+  {
+   "name": "AUX 3 OUT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-E",
+    "b": "P1-5"
+   }
+  },
+  {
+   "name": "AUX 1 OUT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-F",
+    "b": "P1-6"
+   }
+  },
+  {
+   "name": "SOLO OUT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-H",
+    "b": "P1-7"
+   }
+  },
+  {
+   "name": "ATT OUT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-J",
+    "b": "P1-8"
+   }
+  },
+  {
+   "name": "M1 OUT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-L",
+    "b": "P1-10"
+   }
+  },
+  {
+   "name": "M2 OUT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-M",
+    "b": "P1-11"
+   }
+  },
+  {
+   "name": "AUX PRE-FADE IN",
+   "dir": "in",
+   "pins": {
+    "a": "P1-P",
+    "b": "P1-13"
+   }
+  },
+  {
+   "name": "SUB ON OUT",
+   "dir": "control_out",
+   "pins": {
+    "a": "P1-R",
+    "b": "P1-14"
+   }
+  },
+  {
+   "name": "DIRECT OUT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-S",
+    "b": "P1-15"
+   }
+  },
+  {
+   "name": "MONITOR OUT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-T",
+    "b": "P1-16",
+    "c": "P1-U",
+    "d": "P1-17"
+   }
+  },
+  {
+   "name": "SOLO CONTROL",
+   "dir": "control_in",
+   "pins": {
+    "a": "P1-V"
+   }
+  },
+  {
+   "name": "M1 CTL",
+   "dir": "control_in",
+   "pins": {
+    "a": "P1-W"
+   }
+  },
+  {
+   "name": "M2 CTL",
+   "dir": "control_in",
+   "pins": {
+    "a": "P1-X"
+   }
+  },
+  {
+   "name": "SUB CTL",
+   "dir": "control_in",
+   "pins": {
+    "a": "P1-Z"
+   }
+  }
+ ],
+ "inserts": [],
  "straps": [
   {
-   "function": "24V Jumper",
-   "designation": "JMP.Y.21",
-   "from": "P2-Y",
-   "to": "P2-21"
+   "name": "JMP.Y.21",
+   "pins": [
+    "P2-Y",
+    "P2-21"
+   ],
+   "note": "24V Jumper",
+   "from": "RTO-144 sheet"
   },
   {
-   "function": "CH ON GND ",
-   "designation": "JMP.20.18",
-   "from": "P2-20",
-   "to": "P2-18"
+   "name": "JMP.20.18",
+   "pins": [
+    "P2-20",
+    "P2-18"
+   ],
+   "note": "CH ON GND",
+   "from": "RTO-144 sheet"
   },
   {
-   "function": "Insert +",
-   "designation": "JMP.22.21",
-   "from": "P2-22",
-   "to": "P2-21"
+   "name": "JMP.22.21",
+   "pins": [
+    "P2-22",
+    "P2-21"
+   ],
+   "note": "Insert +",
+   "from": "RTO-144 sheet"
   },
   {
-   "function": "Insert -",
-   "designation": "JMP.Z.Y",
-   "from": "P2-Z",
-   "to": "P2-Y"
+   "name": "JMP.Z.Y",
+   "pins": [
+    "P2-Z",
+    "P2-Y"
+   ],
+   "note": "Insert -",
+   "from": "RTO-144 sheet"
   }
  ],
- "power": [
+ "conflicts": [
   {
-   "rail": "VEE-AUDIO",
-   "style": "NEW",
-   "volts": -25,
-   "max_a": 0.1,
-   "supply": "P2-19",
-   "ground": "P2-20",
-   "link": 2
+   "pin": "P1-J",
+   "kept": "ATT OUT (out)",
+   "other": "Insert Return - (in)",
+   "from": "RTO-144 sheet"
   },
   {
-   "rail": "VCC-AUDIO",
-   "style": "NEW",
-   "volts": 25,
-   "max_a": 0.2,
-   "supply": "P2-21",
-   "ground": "P2-20",
-   "link": 1
+   "pin": "P1-R",
+   "kept": "SUB ON OUT (control_out)",
+   "other": "Insert Return + (in)",
+   "from": "RTO-144 sheet"
   }
  ],
- "sources": [
-  "Engineering/RTO-144/M473A/M473A.rto144.json"
+ "to_check": [
+  {
+   "what": "disagree",
+   "pin": "P1-J",
+   "detail": "kept ATT OUT (out); RTO-144 sheet says Insert Return - (in)"
+  },
+  {
+   "what": "disagree",
+   "pin": "P1-R",
+   "detail": "kept SUB ON OUT (control_out); RTO-144 sheet says Insert Return + (in)"
+  }
  ]
 }
