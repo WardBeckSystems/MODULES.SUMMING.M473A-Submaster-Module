@@ -1,5 +1,5 @@
 # M473A - P22 - Functional Diagram.jpg
-Wiki page: [M473A](../../../../PAGES/M473A.md)
+Wiki page: [M473A](../)
 
 
 - **Year:** unknown (title block (read by eye))

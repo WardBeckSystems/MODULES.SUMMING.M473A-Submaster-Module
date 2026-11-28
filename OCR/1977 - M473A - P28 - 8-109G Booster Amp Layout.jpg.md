@@ -1,5 +1,5 @@
 # 1977 - M473A - P28 - 8-109G Booster Amp Layout.jpg
-Wiki page: [M473A](../../../../PAGES/M473A.md)
+Wiki page: [M473A](../)
 
 
 - **Year:** 1977 (module estimate (labelled))

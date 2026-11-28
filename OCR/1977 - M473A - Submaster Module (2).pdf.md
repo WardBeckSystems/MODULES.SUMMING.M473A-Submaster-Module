@@ -1,5 +1,5 @@
 # 1977 - M473A - Submaster Module (2).pdf
-Wiki page: [M473A](../../../../PAGES/M473A.md)
+Wiki page: [M473A](../)
 
 
 - **Year:** 1977 (found in this file: "DATE JUNE . 77")

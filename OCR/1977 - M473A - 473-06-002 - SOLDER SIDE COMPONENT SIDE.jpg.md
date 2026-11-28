@@ -1,5 +1,5 @@
 # 1977 - M473A - 473-06-002 - SOLDER SIDE COMPONENT SIDE.jpg
-Wiki page: [M473A](../../../../PAGES/M473A.md)
+Wiki page: [M473A](../)
 
 
 - **Year:** 1977 (found in this file: "DATE JUNE 77")

@@ -1,5 +1,5 @@
 # 1977 - M473A - 473-01-002 - TROLS MODIFIED REDRAWN REVISION.jpg
-Wiki page: [M473A](../../../../PAGES/M473A.md)
+Wiki page: [M473A](../)
 
 
 - **Year:** 1977 (module estimate (labelled))

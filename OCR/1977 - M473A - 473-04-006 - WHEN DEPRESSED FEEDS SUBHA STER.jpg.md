@@ -1,5 +1,5 @@
 # 1977 - M473A - 473-04-006 - WHEN DEPRESSED FEEDS SUBHA STER.jpg
-Wiki page: [M473A](../../../../PAGES/M473A.md)
+Wiki page: [M473A](../)
 
 
 - **Year:** 1977 (module estimate (labelled))

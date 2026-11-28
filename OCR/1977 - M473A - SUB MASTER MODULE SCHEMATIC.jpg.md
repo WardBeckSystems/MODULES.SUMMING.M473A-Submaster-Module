@@ -1,5 +1,5 @@
 # 1977 - M473A - SUB MASTER MODULE SCHEMATIC.jpg
-Wiki page: [M473A](../../../../PAGES/M473A.md)
+Wiki page: [M473A](../)
 
 
 - **Year:** 1977 (module estimate (labelled))
