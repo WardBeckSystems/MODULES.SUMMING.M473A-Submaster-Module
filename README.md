@@ -4,13 +4,12 @@ Ward-Beck Systems M473A, 1977|10. Wiki page: [M473A on WBSps.ca](https://wardbec
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 39 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 6 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 11 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 201 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 2 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 13 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 38 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 7 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 10 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 200 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 12 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 36 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -199,8 +198,6 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKV2h4bnZpVUwwdWM/view?resourcekey=0-kaYSywnviTLYR8bPBcNnsA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKV2h4bnZpVUwwdWM&resourcekey=0-kaYSywnviTLYR8bPBcNnsA" width="240" alt="1977 - M473A - SUB MASTER MODULE SCHEMATIC.jpg"></a><br><sub>1977|10 · SUB MASTER MODULE SCHEMATIC · <a href="SCHEMATICS/1977%20-%20M473A%20-%20SUB%20MASTER%20MODULE%20SCHEMATIC%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `M473A - P22 - Functional Diagram.jpg`
-
 ## Pinouts
 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
@@ -208,8 +205,6 @@ _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and r
 <table>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKVkF2UFc1cjR3c2c/view?resourcekey=0-yTyzR69SMZAXM-4R4oJmNA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKVkF2UFc1cjR3c2c&resourcekey=0-yTyzR69SMZAXM-4R4oJmNA" width="240" alt="1977 - M473A - P25 - Pin Out.jpg"></a><br><sub>1977|10 · P25 - Pin Out · <a href="PINOUTS/1977%20-%20M473A%20-%20P25%20-%20Pin%20Out%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
-
-Not on Google Drive yet: `M473A - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
@@ -303,7 +298,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [M473A - P22 - Functional Diagram.kicad_sch](KICAD/M473A%20-%20P22%20-%20Functional%20Diagram.kicad_sch)
 - [M473A - P28 - 8-109G Booster Amp Schematic.kicad_sch](KICAD/M473A%20-%20P28%20-%208-109G%20Booster%20Amp%20Schematic.kicad_sch)
 - [M473A.kicad_sym](KICAD/M473A.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
